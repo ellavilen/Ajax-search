@@ -1,0 +1,23 @@
+#tausta {
+    width: 500px;
+    height: auto;
+    background-color: #e6e6e6;
+    padding: 20px;
+}
+
+h2 {
+    color: teal;
+    font-family: sans-serif;
+}
+#loota{
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: grey;
+}
+#demo {
+    display: inline-block;
+    font-size: 14px;
+}
